@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         override fun getCount(): Int {
-            return 10
+            return 12
         }
 
         override fun getItemId(position: Int): Long {
